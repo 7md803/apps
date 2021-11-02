@@ -1,6 +1,6 @@
 name: GraphiQL
 description: 'A GUI for editing and testing GraphQL queries and mutations'
-website: 'https://github.com/skevy/graphiql-app'
+website: 'https://api.remote.it/graphql/v1 '
 category: 'Developer Tools'
 keywords:
   - GraphQL
